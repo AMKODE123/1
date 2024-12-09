@@ -44,7 +44,7 @@
 "RTS 1", "https://webtvstream.bhtelecom.ba/rts1.m3u8", "SERBIAN"
 "RTS 2", "https://webtvstream.bhtelecom.ba/rts2.m3u8", "SERBIAN"
 "Euronews Serbia", "https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8", "SERBIAN"
-"HRT 1", "https://webtvstream.bhtelecom.ba/hls9/hrt1_1200.m3u8", "CROATIAN"
+"HRT 1", "https://webtvstream.bhtelecom.ba/hrt1.m3u8", "CROATIAN"
 "HRT 2", "https://webtvstream.bhtelecom.ba/hls9/hrt2_1200.m3u8", "CROATIAN"
 "RTL", "https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8", "CROATIAN"
 "HRT 3", "https://webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8", "CROATIAN"
