@@ -1,7 +1,7 @@
 "24 Kitchen HD", "http://webtvstream.bhtelecom.ba/24_kitchen.m3u8", "BOSNIAN"
 "Agro TV", "http://webtvstream.bhtelecom.ba/agro_tv.m3u8", "BOSNIAN"
 "Al Jazeera Arabic HD", "http://webtvstream.bhtelecom.ba/al_jazeera_arabic.m3u8", "BOSNIAN"
-"Al Jazeera Balkans HD", "http://webtvstream.bhtelecom.ba/ajb.m3u8", "BOSNIAN"
+"Al Jazeera Balkans HD", "https://live-hls-web-ajb.getaj.net/AJB/index.m3u8", "BOSNIAN"
 "Al Jazeera English HD", "http://webtvstream.bhtelecom.ba/al_jazeera_english.m3u8", "BOSNIAN"
 "Alfa TV", "http://webtvstream.bhtelecom.ba/alfa_tv.m3u8", "BOSNIAN"
 "Animal Planet HD", "http://webtvstream.bhtelecom.ba/animal_planet.m3u8?token=test", "BOSNIAN"
