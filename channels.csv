@@ -194,3 +194,7 @@
 "TRT Belgesel", "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8", Turkish
 "TRT Avaz", "https://tv-trtavaz.medya.trt.com.tr/master.m3u8", Turkish
 "TRT Kurdî", "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8", Kurdish
+"HBO", "http://line.bestvplus.com/live/channel/HBO/playlist.m3u8", "EN"
+"HBO 2", "http://line.bestvplus.com/live/channel/HBO2/playlist.m3u8", "EN"
+"HBO Family", "http://line.bestvplus.com/live/channel/HBOFamily/playlist.m3u8", "EN"
+"Cinemax", "http://line.bestvplus.com/live/channel/Cinemax/playlist.m3u8", "EN"
